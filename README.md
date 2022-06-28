@@ -3,4 +3,4 @@ This repository holds the relevant files for AISC Freshwater Management: (https:
 
  The aim of this project is to find the most accurate Kalman Gain for the satellite measurements given for Great Slave Lake, Lake Athabasca Lesser Slave Lake, and without using any assumed error.
 
-Contributors to this repository: Debjani Mukherjee, Sarbottam Thapa Magar, Jesse Passmore
+Contributors to this repository: Debjani Mukherjee, Jesse Passmore
