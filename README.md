@@ -1,6 +1,6 @@
 # ml_in_freshwater_management
-This repository holds the relevant files for AISC Freshwater Management: (https://www.notion.so/aggregate-intellect/ML-in-Freshwater-Management-331f1c453c0e4234aea4bda133f5f1bb)
+This repository holds the relevant files for AISC Freshwater Management: ((https://community.ai.science/ml-in-freshwater-management))
 
- The aim of this project is to find the most accurate Kalman Gain for the satellite measurements given for Canada's 'great' northern lakes. 
+ The notebooks herein were designed as instruction tools for use in the 12 week long working group. As the group was relatively junior, multivariate time series and other more advanced topics were not intensively covered.
 
 Contributors to this repository: Jesse Passmore
