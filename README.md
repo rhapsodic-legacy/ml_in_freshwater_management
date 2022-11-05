@@ -3,6 +3,8 @@ This repository holds the relevant files for AISC Freshwater Management: ((https
 
  The notebooks herein were designed as instruction tools for use in the 12 week long working group. As the group was relatively junior, multivariate time series and other more advanced topics were not intensively covered.
  
+ + Linear Kalman Filter (cleaned data and raw versions): a linear kalmna filter that uses the mean of a given timestep's water levels as the input. 
+ 
  Each notebook is intended to expand relatively junior ML engineer's perspective, on how to combine computer and the physical sciences. 
 
 Contributors to this repository: Jesse Passmore
