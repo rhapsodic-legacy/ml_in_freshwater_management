@@ -6,6 +6,6 @@ This repository holds the relevant files for AISC Freshwater Management: ((https
  + Linear Kalman Filter (cleaned data and raw versions): a linear kalmna filter that uses the mean of a given timestep's water levels as the input. 
  + A random forest regression -hybrid- Kalman Filter, that injects itself every X time steps to maintain filter confidence. This hybrid model's effectiveness is tied to the size of the amplitudes of error (& uncertainty). 
  
- Each notebook is intended to expand relatively junior ML engineer's perspective, on how to combine computer and the physical sciences. 
+ Each notebook is intended to demonstrate how to combine computer and the physical sciences. 
 
 Contributors to this repository: Jesse Passmore
