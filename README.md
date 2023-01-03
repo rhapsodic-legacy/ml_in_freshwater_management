@@ -9,4 +9,4 @@
  
  Each notebook is intended to demonstrate how to combine computer and the physical sciences to those in the group. 
 
-Contributors to this repository: Jesse Passmore
+Contributors to this repository: Jesse Passmore, Ada Thira
