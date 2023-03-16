@@ -3,14 +3,12 @@
 
  The notebooks herein were designed as instruction tools for use in the 12 week long working group sponsored by NRCan. 
  
- + The folder 'student entries' were the final projects of the students in the working group. 
+ + The 'Data' folder has the raw satellite readings for Canada's great nothern lakes, as well as the estimated error recordings for Lake Winnipeg. 
+ 
+ + The 'winnipeg_error_raw' Jupyter Notebook file shows how to process the satellite readings to find the error in the measurements. 
  
  + The 'kf_numpy' and 'kf_numpy_2' Jupyter Notebook files are machine learning free means of building a Kalman Filter in python. 
  
  
- + Linear Kalman Filter (cleaned data and raw versions): a linear kalmna filter that uses the mean of a given timestep's water levels as the input. 
  + A random forest regression -hybrid- Kalman Filter, that injects itself every X time steps to maintain filter confidence. This hybrid model's effectiveness is tied to the size of the amplitudes of error (& uncertainty). 
- 
- Each notebook is intended to demonstrate how to combine computer and the physical sciences to those in the group. 
 
-Contributors to this repository: Jesse Passmore
