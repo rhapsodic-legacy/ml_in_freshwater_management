@@ -9,6 +9,7 @@
  
  + The 'kf_numpy' and 'kf_numpy_2' Jupyter Notebook files are machine learning free means of building a Kalman Filter in python. 
  
- 
  + The 'LSTM Kalman Filter' Jupyter Notebook file has a deep learning / Kalman Filter hybrid, trained on Lake Winnipeg's error estimations. 
+ 
+  + The 'Pytorch Kalman Filter' Jupyter Notebook file has a deep learning / Kalman Filter hybrid, using Pytorch. An explanation of the intent of combining deep learning with Kalman Filters is given therein. 
 
