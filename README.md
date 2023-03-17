@@ -10,5 +10,5 @@
  + The 'kf_numpy' and 'kf_numpy_2' Jupyter Notebook files are machine learning free means of building a Kalman Filter in python. 
  
  
- + A random forest regression -hybrid- Kalman Filter, that injects itself every X time steps to maintain filter confidence. This hybrid model's effectiveness is tied to the size of the amplitudes of error (& uncertainty). 
+ + The 'LSTM Kalman Filter' Jupyter Notebook file has a deep learning / Kalman Filter hybrid, trained on Lake Winnipeg's error estimations. 
 
