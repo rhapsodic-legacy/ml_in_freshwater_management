@@ -1,7 +1,7 @@
 # ml_in_freshwater_management
 ### This repository holds the relevant files for AISC Freshwater Management: ((https://community.ai.science/ml-in-freshwater-management))
 
- The notebooks herein were designed as instruction tools for use in the 12 week long working group sponsored by NRCan. 
+ This GitHub repository contains the instructional tools for a 12-week working group sponsored by NRCan. They are designed to guide participants through hands-on learning, offering practical resources and insights tailored to the program’s objectives.
  
  + The 'Data' folder has the raw satellite readings for Canada's great nothern lakes, as well as the estimated error recordings for Lake Winnipeg. 
  
