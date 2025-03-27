@@ -3,7 +3,7 @@
 
  This GitHub repository contains the instructional tools for a 12-week working group sponsored by NRCan. They are designed to guide participants through hands-on learning, offering practical resources and insights tailored to the program’s objectives.
  
- + The 'Data' folder has the raw satellite readings for Canada's great nothern lakes, as well as the estimated error recordings for Lake Winnipeg.
+ + The 'Data' folder has the raw satellite readings for Canada's great nothern lakes, as well as the estimated error recordings for Lake Winnipeg. 
  
  + The 'winnipeg_error_raw' Jupyter Notebook file shows how to process the satellite readings to find the error in the measurements.  
  
